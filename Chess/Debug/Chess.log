@@ -1,0 +1,45 @@
+﻿  source.cpp
+D:\MyGames\Chess\Chess\Chess\Board.h(28,24): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(32,24): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(34,25): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(100,24): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(102,25): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(114,24): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\Board.h(116,25): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(26,30): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(28,34): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(32,69): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(32,56): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(37,74): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(37,61): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(42,74): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(42,61): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\MyGames\Chess\Chess\Chess\GameManager.h(64,30): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(66,34): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(70,42): warning C4018: '<': signed/unsigned mismatch
+D:\MyGames\Chess\Chess\Chess\GameManager.h(72,46): warning C4018: '<': signed/unsigned mismatch
+  Chess.vcxproj -> D:\MyGames\Chess\Chess\Debug\Chess.exe
